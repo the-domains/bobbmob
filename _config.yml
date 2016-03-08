@@ -1,0 +1,28 @@
+name: bobbmob
+favicon: null
+layout_spectrum: 0.6640831297263503
+typography_spectrum: 0.8892383622005582
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.20281380624510348
+  lightness: 0.09577517420984805
+  saturation: 0.9550505813676864
+  rhythmicContrast: 0.6116284825839102
+purpose: []
